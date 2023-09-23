@@ -1,0 +1,12 @@
+C:\Users\irfaa\OneDrive\Masaüstü\C#\PaintCizim\bin\Debug\PaintCizim.exe.config
+C:\Users\irfaa\OneDrive\Masaüstü\C#\PaintCizim\bin\Debug\PaintCizim.exe
+C:\Users\irfaa\OneDrive\Masaüstü\C#\PaintCizim\bin\Debug\PaintCizim.pdb
+C:\Users\irfaa\OneDrive\Masaüstü\C#\PaintCizim\obj\Debug\PaintCizim.csproj.AssemblyReference.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\PaintCizim\obj\Debug\PaintCizim.Form1.resources
+C:\Users\irfaa\OneDrive\Masaüstü\C#\PaintCizim\obj\Debug\PaintCizim.Properties.Resources.resources
+C:\Users\irfaa\OneDrive\Masaüstü\C#\PaintCizim\obj\Debug\PaintCizim.csproj.GenerateResource.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\PaintCizim\obj\Debug\PaintCizim.csproj.CoreCompileInputs.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\PaintCizim\obj\Debug\PaintCizim.exe
+C:\Users\irfaa\OneDrive\Masaüstü\C#\PaintCizim\obj\Debug\PaintCizim.pdb
+C:\Users\irfaa\OneDrive\Masaüstü\C#\PaintCizim\obj\Debug\PaintCizim.Form2.resources
+C:\Users\irfaa\OneDrive\Masaüstü\C#\PaintCizim\obj\Debug\PaintCizim.Form3.resources
